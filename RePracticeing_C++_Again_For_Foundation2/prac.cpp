@@ -1,4 +1,4 @@
-typedef struct Bird {
+/*typedef struct Bird {
 	char name[30];
 	int age;
 
@@ -18,4 +18,4 @@ typedef struct Fish {
 	int clean;
 
 	int deep;
-}Fish;
+}Fish;*/

@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 
 int main() {
 	int arr[10] = { 75,23,86,54,23,98,44,23,86,45 };
@@ -18,4 +18,4 @@ int main() {
 	for (int i = 0; i < 10; i++) {
 		std::cout <<" "<< arr[i];
 	}
-}
+}*/
