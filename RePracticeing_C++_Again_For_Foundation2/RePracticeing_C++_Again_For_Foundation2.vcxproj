@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\RePracticeing_C++_Again_For_Foundation\RePracticeing_C++_Again_For_Foundation\Pointer.c" />
+    <ClCompile Include="func1.cpp" />
     <ClCompile Include="prac.cpp" />
     <ClCompile Include="객체.cpp" />
     <ClCompile Include="버블정렬.cpp" />

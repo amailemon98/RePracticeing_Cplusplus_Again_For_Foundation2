@@ -1,4 +1,4 @@
-class Data {
+/*class Data {
 	int year_;
 	int month_;
 	int day_;
@@ -11,3 +11,4 @@ public:
 
 	void ShowDate();
 };
+*/
