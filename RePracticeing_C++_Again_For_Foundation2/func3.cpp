@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 
 void funcPrint() {
 	std::cout << "함수를 호출하였습니다." << '\n';
@@ -22,3 +22,4 @@ int main() {
 	paraPrint(para1);
 	paraPrint(para2, para3);
 }
+*/
