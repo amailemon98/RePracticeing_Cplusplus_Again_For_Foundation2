@@ -14,7 +14,11 @@ void paraPrint(int x, double y) {
 }
 
 int main() {
+	int para1, para2;
+	double para3;
 	funcPrint();
-	paraPrint(5);
-	paraPrint(10, 3.13);
+	std::cin >> para1;
+	std::cin >> para2 >> para3;
+	paraPrint(para1);
+	paraPrint(para2, para3);
 }
