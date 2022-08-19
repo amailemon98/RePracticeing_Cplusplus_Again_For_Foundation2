@@ -145,6 +145,7 @@
     <ClCompile Include="func3.cpp" />
     <ClCompile Include="funcWithPointer.cpp" />
     <ClCompile Include="prac.cpp" />
+    <ClCompile Include="weapon.cpp" />
     <ClCompile Include="객체.cpp" />
     <ClCompile Include="버블정렬.cpp" />
   </ItemGroup>

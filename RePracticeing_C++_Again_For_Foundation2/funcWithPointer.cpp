@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 
 int func1(int a, int b) {
 	std::cin >> a, b;
@@ -19,4 +19,4 @@ int main() {
 	std::cout << "다른 값 두개를 입력해주세요." << '\n';
 	std::cout << func2(test1, test2) << '\n';
 
-}
+}*/
