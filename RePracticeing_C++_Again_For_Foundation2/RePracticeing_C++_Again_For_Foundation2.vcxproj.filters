@@ -42,5 +42,11 @@
     <ClCompile Include="weapon.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="classy.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="counterObject.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

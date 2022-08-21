@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 
 void funcPrint() {
 	std::cout << "전달할 값을 입력해주세요." << '\n';
@@ -24,3 +24,4 @@ int main() {
 	paraPrint(para1);
 	paraPrint(para2, para3);
 }
+*/
