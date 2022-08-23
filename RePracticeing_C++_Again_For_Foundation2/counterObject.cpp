@@ -1,6 +1,10 @@
 #include <iostream>
 #include "classy.cpp";
 
+class member {
+
+};
+
 int main() {
-	classy car = new car;
+	member m1;
 }
