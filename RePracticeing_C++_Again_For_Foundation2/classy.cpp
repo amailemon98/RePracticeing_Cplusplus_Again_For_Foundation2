@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 class car {
 
 public:
@@ -6,4 +6,4 @@ public:
 		std::cout << "연료가 1 떨어집니다." << '\n';
 	}
 
-};
+};*/
