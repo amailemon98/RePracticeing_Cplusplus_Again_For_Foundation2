@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\RePracticeing_C++_Again_For_Foundation\RePracticeing_C++_Again_For_Foundation\Pointer.c" />
+    <ClCompile Include="bool.cpp" />
     <ClCompile Include="counterObject.cpp" />
     <ClCompile Include="func1.cpp" />
     <ClCompile Include="func2.cpp" />
