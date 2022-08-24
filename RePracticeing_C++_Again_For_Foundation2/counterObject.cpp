@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include "classy.cpp";
 
 class member {
@@ -7,4 +7,4 @@ class member {
 
 int main() {
 	member m1;
-}
+}*/

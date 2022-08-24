@@ -146,6 +146,7 @@
     <ClCompile Include="func3.cpp" />
     <ClCompile Include="funcWithPointer.cpp" />
     <ClCompile Include="classy.cpp" />
+    <ClCompile Include="hello world.cpp" />
     <ClCompile Include="prac.cpp" />
     <ClCompile Include="weapon.cpp" />
     <ClCompile Include="객체.cpp" />
