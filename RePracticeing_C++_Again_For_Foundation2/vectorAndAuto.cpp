@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <vector>
 #include <typeinfo>
 #include <string>
@@ -27,4 +27,4 @@ int main() {
 	cout << a2 << endl; //buto the auto
 	//a1[0] = 'b'; //const char * 는 값을 수정할 수 없다.
 	//b2[0] = 'b'; //const char * 는 값을 수정할 수 없다.
-}
+}*/
