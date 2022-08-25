@@ -150,6 +150,7 @@
     <ClCompile Include="hello world.cpp" />
     <ClCompile Include="MyParent.cpp" />
     <ClCompile Include="prac.cpp" />
+    <ClCompile Include="vectorAndAuto.cpp" />
     <ClCompile Include="weapon.cpp" />
     <ClCompile Include="객체.cpp" />
     <ClCompile Include="버블정렬.cpp" />

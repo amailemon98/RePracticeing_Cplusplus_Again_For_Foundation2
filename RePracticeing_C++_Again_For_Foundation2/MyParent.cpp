@@ -1,4 +1,4 @@
-#include <string>
+/*#include <string>
 #include <iostream>
 
 class MyParent {
@@ -10,4 +10,4 @@ class MyParent {
 	void print() {
 		std::cout << text << std::endl;
 	}
-};
+};*/
