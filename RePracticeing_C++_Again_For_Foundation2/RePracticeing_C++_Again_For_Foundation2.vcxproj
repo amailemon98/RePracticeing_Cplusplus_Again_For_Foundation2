@@ -88,6 +88,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -141,8 +142,11 @@
   <ItemGroup>
     <ClCompile Include="..\..\RePracticeing_C++_Again_For_Foundation\RePracticeing_C++_Again_For_Foundation\Pointer.c" />
     <ClCompile Include="argc_argv_test.cpp" />
+    <ClCompile Include="literalsForString.cpp" />
     <ClCompile Include="bool.cpp" />
     <ClCompile Include="counterObject.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Myfunc.cpp" />
     <ClCompile Include="overTheDoublePointer.cpp" />
     <ClCompile Include="func1.cpp" />
     <ClCompile Include="func2.cpp" />
@@ -158,6 +162,9 @@
     <ClCompile Include="weapon.cpp" />
     <ClCompile Include="객체.cpp" />
     <ClCompile Include="버블정렬.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Myfunc.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <string>
 using std::string;
 using std::cout;
@@ -17,4 +17,4 @@ int main() {
 	}
 	cout << lines.substr(previous, current - previous);
 	return 0;
-}
+}*/
