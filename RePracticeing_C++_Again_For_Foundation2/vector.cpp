@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <string>
 
 int main(int argc, char* argv[]) {
@@ -7,7 +7,4 @@ int main(int argc, char* argv[]) {
 	getline(std::cin, s);
 
 	std::cout << s;
-	std::string t;
-	getline(std::cin, t);
-	std::cout << t;
-}
+}*/
