@@ -155,6 +155,7 @@
     <ClCompile Include="classy.cpp" />
     <ClCompile Include="hello world.cpp" />
     <ClCompile Include="MyParent.cpp" />
+    <ClCompile Include="Pair.cpp" />
     <ClCompile Include="prac.cpp" />
     <ClCompile Include="slicingString.cpp" />
     <ClCompile Include="sstream.cpp" />
