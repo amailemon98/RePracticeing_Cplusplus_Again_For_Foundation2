@@ -1,4 +1,4 @@
-#pragma once
+/*#pragma once
 #define _CRT_SECURE_NO_WARNIGS
 
 #include <iostream>
@@ -60,4 +60,4 @@ int main(int argc, char* argv[]) {
 	std::cout << "front: <" << a << " " << c << ">\n";
 	std::cout << "back: <" << b << " " << d << ">\n";
 	v2.clear();
-}
+}*/

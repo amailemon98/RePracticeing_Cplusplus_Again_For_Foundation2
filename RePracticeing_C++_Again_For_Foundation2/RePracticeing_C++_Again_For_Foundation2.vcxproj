@@ -164,8 +164,10 @@
     <ClCompile Include="weapon.cpp" />
     <ClCompile Include="객체.cpp" />
     <ClCompile Include="버블정렬.cpp" />
+    <ClCompile Include="Calc.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Calc.h" />
     <ClInclude Include="Myfunc.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
