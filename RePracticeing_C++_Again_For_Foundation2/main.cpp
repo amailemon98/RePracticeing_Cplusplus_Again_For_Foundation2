@@ -14,4 +14,5 @@ int main() {
 	c.ShowResult();
 	c.Sub(6, 2);
 	c.ShowResult();
+	//헤더 Calc.h 를 통해 Calc.cpp과 통할 수 있다.
 }
